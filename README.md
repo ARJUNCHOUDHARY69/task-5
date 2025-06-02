@@ -56,4 +56,5 @@ To analyze this file yourself:
 2. Load `main.pcapng`.
 3. Use filters like `tcp`, `dns`, `http`, etc., to explore traffic.
 
----
+---![image](https://github.com/user-attachments/assets/cc20e909-0110-47d0-82b8-491b27598123)
+
